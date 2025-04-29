@@ -26,7 +26,7 @@ namespace BORINAGA_STACK
                 // Noel Earl G. Borinaga
                 // IT 404A
                 // Maam Farah Diva Alvarado
-                // Activity 7 Using Stack Method
+                // Activity 8 Using Queue Methods
 
                 Queue<string> countries = new Queue<string>();
                 string input;
