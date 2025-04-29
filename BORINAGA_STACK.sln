@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BORINAGA_STACK", "BORINAGA_STACK.csproj", "{B5F2EBF1-CA35-471C-A78F-DF4A0A22BAC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5F2EBF1-CA35-471C-A78F-DF4A0A22BAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F2EBF1-CA35-471C-A78F-DF4A0A22BAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F2EBF1-CA35-471C-A78F-DF4A0A22BAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F2EBF1-CA35-471C-A78F-DF4A0A22BAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B0974D9-0DD9-44B8-8BE8-23AFE80C7DF8}
+	EndGlobalSection
+EndGlobal
