@@ -23,7 +23,7 @@ namespace BORINAGA_STACK
         };
         static void Main(string[] args)
         {
-                // Noel Earl G. Borinaga
+                // Sciatzy keth Soria
                 // IT 404A
                 // Maam Farah Diva Alvarado
                 // Activity 8 Using Queue Methods
